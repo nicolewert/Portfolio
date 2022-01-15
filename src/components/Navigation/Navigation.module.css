@@ -1,0 +1,12 @@
+.colorNav {
+  background-color: #dbe5f5;
+}
+
+.linkText {
+  color: black;
+  font-size: 18px;
+}
+
+.linkText:hover {
+  color: #296ad7;
+}
