@@ -1,0 +1,22 @@
+.container {
+  height: 100vh;
+}
+
+.sectionTitle {
+  padding: 8% 0 3% 5%;
+}
+
+.icons {
+  color: #464d5a;
+  font-size: 40px;
+  margin: 0 3px;
+}
+
+.color {
+  color: #296ad7;
+}
+
+.dots {
+  font-size: 36px;
+  text-align: center;
+}
