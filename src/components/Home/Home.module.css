@@ -1,0 +1,51 @@
+.container {
+  background-color: #dbe5f5;
+  color: #464d5a;
+  height: 91vh;
+}
+
+.name {
+  font-size: 4em;
+  letter-spacing: 0.37em;
+  font-weight: 600;
+  margin: 8% 0 5%;
+}
+
+.catImg {
+  width: 85px;
+  height: 165px;
+}
+
+.catText {
+  z-index: 1;
+  position: absolute;
+  align-self: center;
+}
+
+.iconGroup {
+  margin: 1% 0 8%;
+}
+
+.icon {
+  color: #464d5a;
+  font-size: 20px;
+  margin: 0 3px;
+}
+
+.arrow {
+  font-size: 30px;
+  margin: 0 0 1%;
+  animation: jumpInfinite 1.5s infinite;
+}
+
+@keyframes jumpInfinite {
+  0% {
+    margin-top: 0;
+  }
+  50% {
+    margin-top: 20px;
+  }
+  100% {
+    margin-top: 0;
+  }
+}
