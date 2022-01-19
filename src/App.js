@@ -2,6 +2,7 @@ import './App.css';
 import React from 'react'; 
 import Navigation from './components/Navigation/Navigation';
 import Home from './components/Home/Home'; 
+import About from './components/About/About';
 
 function App() {
   return (
