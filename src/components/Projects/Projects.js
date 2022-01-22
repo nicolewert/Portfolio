@@ -8,7 +8,7 @@ import pikachuImg from '../../assets/pikachu-tribute.png'
 
 const Projects = () => {
     return(
-        <Container fluid className={classes.container}>
+        <Container fluid className={classes.container} id="Projects">
             <h2 className={classes.sectionTitle}>Projects</h2>
             <Row className="w-75 m-auto">
                 <Col>

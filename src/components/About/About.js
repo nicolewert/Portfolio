@@ -8,7 +8,7 @@ import { Icon } from '@iconify/react';
 const About = () =>{
     return(
         <>
-            <Container fluid className={classes.container}>
+            <Container fluid className={classes.container} id="About">
                 <h2 className={classes.sectionTitle}>About</h2>
                 <Row className="w-75 text-left m-auto pb-3">
                     <p>Hello, my name is Nicole, and I love tinkering with new things and putting them together to create something awesome. 
