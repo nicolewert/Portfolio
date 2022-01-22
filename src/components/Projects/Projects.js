@@ -20,7 +20,7 @@ const Projects = () => {
                             "MERN Stack",
                             "External API calls" 
                         ]}
-                        gitLink = ""
+                        gitLink = "https://github.com/nicolewert/Coffee-Japanese"
                         extLink = ""
                     />
                 </Col>
@@ -34,7 +34,7 @@ const Projects = () => {
                             "Backend: Go Microservices, Postgres, Cassandra, Mongodb",
                             "Frontend: React, Modular CSS"
                         ]}
-                        gitLink = ""
+                        gitLink = "https://github.com/mokumoku-lovers"
                         extLink = ""
                     />  
                 </Col>

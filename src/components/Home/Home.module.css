@@ -5,15 +5,15 @@
 }
 
 .name {
-  font-size: 4em;
+  font-size: 3.5em;
   letter-spacing: 0.37em;
   font-weight: 600;
-  margin: 8% 0 5%;
+  margin: 7% 0 5%;
 }
 
 .catImg {
-  width: 85px;
-  height: 165px;
+  width: 65px;
+  height: 145px;
 }
 
 .catText {
@@ -23,7 +23,7 @@
 }
 
 .iconGroup {
-  margin: 1% 0 8%;
+  margin: 1% 0 6% !important;
 }
 
 .icon {
