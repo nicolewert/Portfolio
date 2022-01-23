@@ -9,7 +9,7 @@ import { ArrowDown } from 'react-bootstrap-icons';
 
 const Home = () => {
     return(
-            <Container fluid className={`${classes.container} text-center`} id="Home">
+            <Container fluid className={`${classes.container} text-center`}>
 
                 <Row>
                     <Col>
