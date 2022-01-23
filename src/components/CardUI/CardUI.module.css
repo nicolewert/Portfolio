@@ -1,0 +1,23 @@
+.cardUI {
+  background: #dbe5f5 !important;
+  border-radius: 10px !important;
+  border-style: none !important;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.cardUI:hover {
+  transform: scale(1.05);
+}
+
+.inner {
+  overflow: hidden;
+}
+
+.inner img {
+  transition: all 1.5s ease;
+}
+
+.inner:hover img {
+  transform: scale(1.2);
+}

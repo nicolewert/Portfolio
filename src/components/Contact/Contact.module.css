@@ -1,0 +1,44 @@
+.contact {
+  background-color: #edf6f9;
+  height: 100%;
+}
+
+.sectionTitle {
+  padding: 8% 0 0 5%;
+}
+
+.blueText,
+.grayText {
+  padding-left: 5%;
+}
+
+.blueText {
+  color: #296ad7;
+}
+
+.grayText {
+  color: #464d5a;
+}
+
+.email {
+  text-decoration: none;
+  font-size: 24px;
+  color: black;
+  padding: 10% 0 5%;
+}
+
+.icon {
+  color: #464d5a;
+  font-size: 20px;
+}
+
+.iconGroup {
+  padding-bottom: 10%;
+}
+
+.credit {
+  color: #464d5a;
+  text-align: right;
+  padding-right: 5% !important;
+  padding-bottom: 4%;
+}
