@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.3593bde6.css",
-    "main.js": "/Portfolio/static/js/main.609d977a.js",
+    "main.css": "/Portfolio/static/css/main.af8db2a0.css",
+    "main.js": "/Portfolio/static/js/main.176a506e.js",
     "static/media/moku-moku-card.png": "/Portfolio/static/media/moku-moku-card.f48055c7d30714872273.png",
     "static/media/pikachu-tribute.png": "/Portfolio/static/media/pikachu-tribute.2718b512b6fc3b073e5e.png",
     "static/media/coffee-japanese-wireframe.png": "/Portfolio/static/media/coffee-japanese-wireframe.a758dcd330f663b063d5.png",
@@ -31,11 +31,11 @@
     "static/media/roboto-latin-400.woff2": "/Portfolio/static/media/roboto-latin-400.176f8f5bd5f02b3abfcf.woff2",
     "static/media/roboto-latin-900.woff2": "/Portfolio/static/media/roboto-latin-900.870c8c1486f76054301a.woff2",
     "index.html": "/Portfolio/index.html",
-    "main.3593bde6.css.map": "/Portfolio/static/css/main.3593bde6.css.map",
-    "main.609d977a.js.map": "/Portfolio/static/js/main.609d977a.js.map"
+    "main.af8db2a0.css.map": "/Portfolio/static/css/main.af8db2a0.css.map",
+    "main.176a506e.js.map": "/Portfolio/static/js/main.176a506e.js.map"
   },
   "entrypoints": [
-    "static/css/main.3593bde6.css",
-    "static/js/main.609d977a.js"
+    "static/css/main.af8db2a0.css",
+    "static/js/main.176a506e.js"
   ]
 }
